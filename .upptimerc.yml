@@ -17,7 +17,9 @@ status-website:
   introMessage: Verfügbarkeit und Status der Mitgliederdatenbank der Jungwacht Blauring Schweiz
   navbar:
     - title: Status
-      href: /
+      href: /status-jubladb
+      - title: jubla.db
+      href: https://db.jubla.ch/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
