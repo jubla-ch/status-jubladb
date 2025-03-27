@@ -18,7 +18,7 @@ status-website:
   navbar:
     - title: Status
       href: /status-jubladb
-      - title: jubla.db
+    - title: jubla.db
       href: https://db.jubla.ch/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
