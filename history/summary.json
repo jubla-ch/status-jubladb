@@ -4,19 +4,19 @@
     "url": "https://db.jubla.ch",
     "icon": "https://icons.duckduckgo.com/ip3/db.jubla.ch.ico",
     "slug": "datenbank-der-jungwacht-blauring-schweiz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1022,
-    "timeDay": 1347,
-    "timeWeek": 1061,
-    "timeMonth": 1024,
+    "timeDay": 1268,
+    "timeWeek": 1067,
+    "timeMonth": 1027,
     "timeYear": 1022,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 11
     }
   }
 ]
