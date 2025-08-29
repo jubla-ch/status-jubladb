@@ -6,17 +6,15 @@
     "slug": "datenbank-der-jungwacht-blauring-schweiz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1027,
-    "timeDay": 1247,
-    "timeWeek": 1141,
-    "timeMonth": 1060,
+    "timeDay": 1088,
+    "timeWeek": 1136,
+    "timeMonth": 1057,
     "timeYear": 1027,
-    "dailyMinutesDown": {
-      "2025-08-28": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
