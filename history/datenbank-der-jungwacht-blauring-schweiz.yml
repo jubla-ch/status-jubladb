@@ -1,7 +1,7 @@
 url: https://db.jubla.ch
-status: down
-code: 503
-responseTime: 718
-lastUpdated: 2025-11-24T18:08:33.330Z
+status: up
+code: 200
+responseTime: 1138
+lastUpdated: 2025-11-24T18:36:04.203Z
 startTime: 2025-03-26T15:11:30.163Z
 generator: Upptime <https://github.com/upptime/upptime>
